@@ -18,9 +18,4 @@
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=cay0716&bg_color=180,f1fefe,00000000&title_color=4194a4&text_color=4194a4"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cay0716&layout=compact&bg_color=180,f1fefe,00000000&title_color=4194a4&text_color=4194a4"
-           /> </div> 
-    </div>
     
